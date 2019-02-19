@@ -1,4 +1,27 @@
-*.pyc
+# Compiled/cached Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Temporaries
+.ipynb_checkpoints/
+*.swp
+
+# Outputs
+*.svg
+*.eps
+*.out
+
+# Model and other data
+*.pth
+*.npy
+.idea
+.pytest_cache/
+.notebooks/*
+.ipynb
+
+
+
 *.egg-info
 *.iml
 **/.DS_STORE
