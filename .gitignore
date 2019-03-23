@@ -24,7 +24,7 @@ __pycache__/
 
 *.egg-info
 *.iml
-**/.DS_STORE
+*.DS_STORE
 
 # Misc Folders
 .cache/
